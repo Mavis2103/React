@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.079e6e7a.chunk.css",
+    "main.js": "/React/static/js/main.ea9d328a.chunk.js",
+    "main.js.map": "/React/static/js/main.ea9d328a.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.df1bd89c.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.df1bd89c.js.map",
+    "static/js/2.60d18f30.chunk.js": "/React/static/js/2.60d18f30.chunk.js",
+    "static/js/2.60d18f30.chunk.js.map": "/React/static/js/2.60d18f30.chunk.js.map",
+    "index.html": "/React/index.html",
+    "static/css/main.079e6e7a.chunk.css.map": "/React/static/css/main.079e6e7a.chunk.css.map",
+    "static/js/2.60d18f30.chunk.js.LICENSE.txt": "/React/static/js/2.60d18f30.chunk.js.LICENSE.txt",
+    "static/media/avatar.68f015e2.JPG": "/React/static/media/avatar.68f015e2.JPG",
+    "static/media/coffee-cup.0f9e8ef7.png": "/React/static/media/coffee-cup.0f9e8ef7.png",
+    "static/media/fire.bb3880cf.png": "/React/static/media/fire.bb3880cf.png",
+    "static/media/group.2903f6b7.png": "/React/static/media/group.2903f6b7.png",
+    "static/media/medal.7462c3e5.png": "/React/static/media/medal.7462c3e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df1bd89c.js",
+    "static/js/2.60d18f30.chunk.js",
+    "static/css/main.079e6e7a.chunk.css",
+    "static/js/main.ea9d328a.chunk.js"
+  ]
+}
