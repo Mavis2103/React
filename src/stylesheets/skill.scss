@@ -1,0 +1,18 @@
+.skill {
+  &__item {
+    padding: 0 0 20px 0;
+    &:not(:last-child) {
+      margin: 0 0 20px 0;
+      border-bottom: 1px solid rgb(189, 189, 189);
+    }
+    @media (min-width: 768px) {
+      display: flex;
+      justify-content: space-between;
+    }
+    & > div:last-child {
+      @media (min-width: 768px) {
+        width: 60%;
+      }
+    }
+  }
+}

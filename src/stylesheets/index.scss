@@ -1,0 +1,19 @@
+@import "./reset.scss";
+@import "./about.scss";
+@import "./education.scss";
+@import "./skill.scss";
+.container {
+  padding: 50px 20px;
+  @media (min-width: 768px) {
+    padding: 50px 50px;
+  }
+  @media (min-width: 1024px) {
+    padding: 50px 200px;
+  }
+}
+.bg--red {
+  background-color: #ff4c60;
+}
+.bg--blue {
+  background-color: #6c6ce5;
+}
