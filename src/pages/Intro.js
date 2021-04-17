@@ -20,7 +20,7 @@ const Intro = () => {
       <div>
         <Avatar size="100px" />
         <Title content="Trần Anh Quân" />
-        <Content>I'm a Front-End Developer</Content>
+        <Content>I'm a Full-stack Developer</Content>
         <div
           style={{
             margin: "20px auto",
